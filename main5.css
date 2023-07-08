@@ -1,0 +1,99 @@
+.logo_background{ 
+    background-color: #c983e400;
+    height: 30px;
+    width: 100%;
+}
+.logo_Team{ 
+    display: flex;
+}
+.logo_thanhcongcu{ 
+  position: relative;
+  left: 534px;
+  cursor: pointer;
+}
+.logo{ 
+    height: 300px;
+    width: 300px;
+    position: relative;
+    bottom: 128px;
+     right: 751px;
+ }
+ .logo_input{
+    height: 39px;
+    width: 600px;
+    position: relative;
+    left: 470px;
+    bottom: 9px;
+    border-radius: 50px;
+    padding-left: 30px;
+    border: 1px solid #333;
+    font-size: 17px;
+}
+.logo_button{
+    height: 35px;
+    position:   relative;
+    bottom: 5px;
+    left: 415px;
+    font-size:16px;
+    background-color: #fff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+
+}
+.container_imgthongtindanghang{ 
+    height: 360px;
+    width: 640px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #333;
+    margin-left: 270px;
+    position: relative;
+    bottom: 200px;
+
+}
+.container_thongtinsanpham_P{ 
+    font-size: 25px;
+    font-weight: 200;
+    padding-top: 20px;
+}
+.container{ 
+    display: flex;
+}
+.container_thongtindanghang_H{ 
+    font-size: 30px;
+    font-weight: 900;
+    width: 500px;
+    border-left: 1px solid #333;
+    margin-left: 100px;
+    padding-left: 50px;
+    position: relative;
+    bottom: 200px;
+    height: 800px;
+}   
+.container_imgthongtindanghang1{ 
+    height: 100px;
+    width: 100px;
+    border: 1px solid #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 270px;
+   position: relative;
+    bottom: 200px;
+}
+.khungmotasanpham{ 
+    width: 350px;
+    height: 20px;
+    margin-top: 30px; 
+    top: none;
+    position: relative;
+    padding-bottom: 420px;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.khungmotasanpham__placeholder{ 
+  
+}

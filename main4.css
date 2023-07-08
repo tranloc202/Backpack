@@ -1,0 +1,188 @@
+.logo_background{ 
+    background-color: #c983e400;
+    height: 30px;
+    width: 100%;
+}
+.logo_Team{ 
+    display: flex;
+}
+.logo_thanhcongcu{ 
+  position: relative;
+  left: 534px;
+  cursor: pointer;
+}
+.logo{ 
+    height: 300px;
+    width: 300px;
+    position: relative;
+    bottom: 128px;
+     right: 751px;
+ }
+ .logo_input{
+    height: 39px;
+    width: 600px;
+    position: relative;
+    left: 470px;
+    bottom: 9px;
+    border-radius: 50px;
+    padding-left: 30px;
+    border: 1px solid #333;
+    font-size: 17px;
+}
+.logo_button{
+    height: 35px;
+    position:   relative;
+    bottom: 5px;
+    left: 415px;
+    font-size:16px;
+    background-color: #fff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+
+}
+.container_donhang{ 
+    font-size: 42px;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    position: relative;
+    bottom: 94px;
+    font-weight: 900;
+    left: 23px;
+}
+.container_soluonghang{ 
+    display: flex;
+    font-weight: 900;
+
+}
+.container_ke{ 
+    width: 2px;
+    height: 100px;
+    border-right: #333 solid 1px;
+    position: relative;
+    right: 41px;
+    bottom: 32px;
+}
+.footer_input{ 
+    height: 150px;
+    width: 500px;
+    margin-top: 20px;
+    padding-left: 20px;
+    font-size: 20px;
+   border-radius: 20px;
+}
+
+.footer_nguoithedoi,.footer_dangtheodoi{ 
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.footer_dangtheodoi{ 
+    margin-left: 100px;
+}
+.footer_theodoi{ 
+    display: flex;
+    margin-top: 13px;
+}
+.footer{
+    width: 100%;
+    margin-left: 250px;
+    display: flex;
+    position: relative;
+    bottom: 152px;
+}
+.footer_name_user{ 
+    font-weight: 900;
+    font-size: 30px;
+    margin-left: 80px;
+}
+.container_damua,.container_daban{ 
+    height: 30px;
+    width: 417px;
+    border-bottom: 1px solid #333;
+    display: flex;
+    justify-content: center;
+    margin-right: 200px;
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+.container_cenner{ 
+    height: 400px; 
+    width: 40px;
+    position: relative;
+    left: 80px;
+    bottom: 70px;
+    border-right: 1px solid #333;
+}
+.container_khung_dangnhap{ 
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 24px;
+    font-weight: 900;
+}
+.container_dangnhap{ 
+    position: relative;
+    left: 400px;
+    font-size: 42px;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    position: relative;
+    bottom: 94px;
+    font-weight: 900;
+    left: 220px;
+}
+.container{ 
+    height:464px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center ;
+   
+}
+.container_nang{ 
+    position: relative;
+    bottom: 183px;
+}
+.container_khungsanpham{ 
+    width: 200px; 
+    height: 250px;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-left: 20px;       
+    
+}
+.container_sanpham{ 
+    display: flex;
+   position: relative;
+   bottom: 200px;
+    left: 356px;
+}
+a{ 
+   text-decoration: none;
+   color: #333; 
+}
+.container_khungsanpham:hover{ 
+    box-shadow: 5px 10px 18px #888888;
+}
+.container_imgsanpham{ 
+    padding: 10px;
+
+}
+.container_thongtinsanpham{ 
+    display: flex;
+}
+.container_name_sanpham1{ 
+    font-size: 10px;
+    padding-left: 5px;
+}
+.container_name_tensanpham1{ 
+    font-weight: 900;
+    font-size: 14px;
+}
+.container_thongtinsanphamthongtin1{ 
+    display: flex;
+}
+.container_thongtingia1{ 
+    font-size: 10px;
+    padding-left: 30px;
+}

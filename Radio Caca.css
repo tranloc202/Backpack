@@ -1,0 +1,204 @@
+*{
+    max-width: 1300px;
+    margin: 0px auto;
+    align-items: center;  
+   }
+  
+  
+  
+  
+  
+  .logo_background{ 
+    background-color: #c983e400;
+    height: 30px;
+  
+  
+   
+  }
+  .logo_button{
+    height: 25px;
+    position: relative;
+    bottom: 7px;
+     margin-left: 304px;
+    font-size:16px;
+    background-color: #fff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+  
+  }
+  .logo_input{
+  transform: translateX(-50%);
+    height: 30px;
+    width: 450px;
+    left: 580px;
+   
+  padding-left: 30px;
+    position: relative;
+    bottom: 7px;
+    border-radius: 50px;
+    border: 1px solid #333;
+    font-size: 17px;
+  }
+  
+  
+  
+  
+  
+  .logo_thanhcongcu{ 
+  position: relative;
+  width: 20px;
+  left: 284px;
+  padding: auto;
+  cursor: pointer;
+  bottom: 35px;
+  display: flex;
+  }
+  
+  .logo_t
+  {
+
+    width: 200px;
+    height: 200px;
+  margin-left: 100px;
+    position: relative;
+    right: 50px;   
+    bottom: 70px;
+   
+  }
+  
+  
+  
+  
+  .hinh_1
+  {
+    padding-top: 50px;
+    padding-bottom: 500px;
+    position: relative;
+    margin-left: 0px;
+   text-align: center;
+  
+   
+  
+  }
+  .logo_radio_caca
+  {
+    margin-top: 30px;
+    position: relative;
+    padding-left: 120px;
+    bottom: 468px;
+  
+  
+    
+  
+  }
+  h1
+  {
+    margin-left: 290px;
+  position: relative;
+  bottom: 630px;
+  
+  }
+  .ll
+  {
+    margin-left: 500px;
+    position: relative;
+    bottom: 665px;
+  }
+  h2
+  {
+    margin-left: 50px;
+    position: relative;
+    bottom: 35px;
+    
+  }
+  
+  
+  h3
+  {
+    margin-left: 320px;
+    position: relative;
+    bottom: 680px; 
+  
+  }
+  .dola
+  {
+    margin-left: 290px;
+    position: relative;
+    bottom: 658px;
+  }
+  .button {
+  
+    position: relative;
+    overflow: hidden;
+    margin-left: 800px;
+    bottom: 850px;
+    height: 3rem;
+    padding: 0 2rem;
+    border-radius: 1.5rem;
+    background: #3d3a4e;
+    background-size: 400%;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button:hover::before {
+    transform: scaleX(1);
+  }
+  
+  .button-content {
+    position: relative;
+    z-index: 1;
+  }
+  
+  .button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: scaleX(0);
+    transform-origin: 0 50%;
+    width: 100%;
+    height: inherit;
+    border-radius: inherit;
+    background: linear-gradient(
+      82.3deg,
+      rgba(150, 93, 233, 1) 10.8%,
+      rgba(99, 88, 238, 1) 94.3%
+    );
+    transition: all 0.475s;
+  }
+  h4{
+    position: relative;
+    margin-left: 290px;
+    bottom: 695px;
+  }
+  
+  
+  
+  h6
+  {
+    position: relative;
+   margin-left: 290px;
+   bottom: 690px;
+  }
+  .imdam
+  {
+  position: relative;
+  margin-left: 200px;
+  bottom: 200px;
+  }
+  h5{
+    position: relative;
+    margin-left: 290px;
+    bottom: 695px;
+  }
+  .bieudo
+  {
+    position: relative;
+  text-align: center;
+  margin-left: 0px;
+    bottom: 600px;
+  
+  }
